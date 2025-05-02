@@ -6,4 +6,3 @@
 - feature 3 commit 3
 - feature 4 commit 1
 - feature 4 commit 2
-- feature 5 commit 1
